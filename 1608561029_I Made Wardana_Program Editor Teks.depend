@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1511250232 source:c:\users\user\documents\1608561029_i made wardana_program editor teks\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
